@@ -1,4 +1,5 @@
-This is upgraded version of [my previous project](https://github.com/Verytas/Library_books_records).
+This is upgraded version of [my previous project](https://github.com/Verytas/Library_books_records). </br>
+
 Changes:
 - Spring Data JPA is used instead of JDBC temlplate;
 - added search functionality (/books/search);
