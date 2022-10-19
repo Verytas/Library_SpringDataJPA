@@ -12,5 +12,5 @@ Data is stored in database. SQL code for table creation is in file sql/library_d
 You need to create file resources/hibernate.properties, which needed to connect to db.
 Required fields to fill you will find in file resources/hibernate.properties.origin.
 
-To acceess Users' data type type in browser .../people, for books type .../books, where ... is address of your server.
+To acceess Users' data type in browser .../people, for books type .../books, where ... is address of your server.
 (For example http://localhost:8080/books will bring you to books index page)
